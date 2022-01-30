@@ -1,0 +1,23 @@
+header{
+    background-color: #7eacf1da;
+    color: #E8FDFF;
+}
+body {
+    background-color: rgb(247, 240, 229);
+    font-family: 'Comforter', cursive;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+main {
+    background-color: whitesmoke;
+    padding: 20px;
+  }  
+  .finstagram-post {
+    margin-bottom: 48px;
+  }
+  .finstagram-post .user-info img {
+    border-radius: 30%;
+  }
+  a.photo:hover{
+    padding: 10px;
+  }
+  
